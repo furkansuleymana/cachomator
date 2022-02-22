@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cachomator</string>
+    <string name="service_name">Cachomator Service</string>
+    <string name="service_description">This service automatizes the cache cleaning process. None of your data is being collected.</string>
+</resources>
